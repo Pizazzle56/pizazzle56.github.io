@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a freshman at the [University of Michigan](http://umich.edu) studying Business through the Ross School of Business and Computer Science through the College of Literature Science & The Arts. 
+I'm a Sophomore at the [University of Michigan](http://umich.edu) studying Business (Ross School of Business) and Computer Science (College of Literature Science & The Arts). 
 
 Experience
 ======
-I'm currently enrolled in EECS 280 (Programming and Intro Data Structures). I've worked with Java, C++, HTML, CSS and Javascript.
+I'm currently enrolled in EECS 281 (Data Structures & Algorithms), as well as EECS 280 (Programming and Intro to Data Structures) and EECS 203 (Discrete Mathematics). 
